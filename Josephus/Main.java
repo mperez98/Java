@@ -12,7 +12,7 @@ public class Main {
             reader = new BufferedReader(new FileReader(inputFile));
             String text = null;
 
-            int num_sold = Integer.valueOf(reader.readline().trim());
+            int num_sold = Integer.valueOf(reader.readLine().trim());
             int start = Integer.valueOf(reader.readLine().trim());
             int n = Integer.valueOf(reader.readLine().trim());
 
