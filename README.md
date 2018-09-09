@@ -1,2 +1,2 @@
 # Java
-Basic Java Exercises for practice and fluency
+Java Exercises for practice
